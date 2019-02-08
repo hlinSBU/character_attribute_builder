@@ -30,7 +30,7 @@ public class testclass {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("Here I am.");
+		System.out.println("快乐都是他们的");
 		System.exit(0);
 	}
 	
